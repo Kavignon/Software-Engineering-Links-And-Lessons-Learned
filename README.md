@@ -20,7 +20,7 @@ Topics:
 ## Version Control
 ## Performance 
 ## User Interfaces And User Experience
-## Web Development (Backend & Frontend)
-## System Design & Software Architecture
+## Web Development
+## System Design And Software Architecture
 ## Modern CSS
 ## Machine Learning 
