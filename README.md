@@ -8,7 +8,7 @@ Topics:
 * [Functional Programming](#functional-programming)
 * [Version Control](#version-control)
 * [Performance](#performance)
-* [User Interfaces And User Experience](#user-interfaces-and-user-experience)
+* [User Interface And User Experience](#user-interfaces-and-user-experience)
 * [Web Development](#web-development)
 * [System Design And Software Architecture](#system-design-and-software-architecture)
 * [Modern CSS](#modern-css)
@@ -17,7 +17,7 @@ Topics:
 ## Algorithms and Data Structures
 ## Object-oriented programming
 ## Functional Programming 
-## Version Control (ex: Git)
+## Version Control
 ## Performance 
 ## User Interfaces And User Experience
 ## Web Development (Backend & Frontend)
