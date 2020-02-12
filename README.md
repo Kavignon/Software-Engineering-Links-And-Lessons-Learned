@@ -2,8 +2,9 @@
  List of all the lessons learned, best practices, and links that I've accumulated in my software engineering career (ongoing)
 
 Topics: 
-
 * [General Software Development Tips](#general-software-development-tips)
+* [Documentation](#documentation)
+* [Testing](#testing)
 * [Algorithms and Data Structures](#algorithms-and-data-structures)
 * [Object-Oriented programming](#object-oriented-programming)
 * [Object-Oriented Programming Tech Talks](#object-oriented-programming-tech-talks)
@@ -26,6 +27,8 @@ Topics:
 * [Machine Learning Tech Talks](#machine-learning-tech-talks)
 
 ## General Software Development Tips
+## Documentation
+## Testing
 ## Algorithms and Data Structures
 ## Object-Oriented Programming
 ## Object-Oriented Programming Tech Talks
